@@ -1,0 +1,14 @@
+com\hyx\house\common\constants\CommonConstants.class
+com\hyx\house\common\model\User.class
+com\hyx\house\common\page\PageData.class
+com\hyx\house\common\model\House.class
+com\hyx\house\common\constants\HouseUserType.class
+com\hyx\house\common\result\ResultMsg.class
+com\hyx\house\common\page\PageParams.class
+com\hyx\house\common\page\Pagination.class
+com\hyx\house\common\model\Community.class
+com\hyx\house\common\model\HouseUser.class
+com\hyx\house\common\utils\BeanHelper.class
+com\hyx\house\common\utils\HashUtils.class
+com\hyx\house\common\model\City.class
+com\hyx\house\common\model\UserMsg.class
